@@ -1,0 +1,63 @@
+#cu-logo{
+    width: 15rem;
+}
+
+/* Navbar */
+.navbar{
+    background-color: white;
+    position: -webkit-sticky; /* Safari & IE */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Elements */
+li{
+    margin: auto 1em auto auto;
+}
+
+/* Projects */
+.projects-container{
+    background-color: #343A40;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 2rem;
+}
+
+#projects-heading{
+    font-family: 'Montserrat' , sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+/* Experience */
+.xp{
+    background-color: #343A40;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 3rem;
+}
+#xp-heading{
+    font-family: 'Montserrat' , sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+}
+#xp-subheading{
+    font-style: italic;
+    font-size: large;
+}
+.xp-container{
+    margin-bottom: 3rem;
+}
+.xp-heading-rows,.xp-rows{
+    text-align: center;
+}
+.xp-rows{
+    font-weight: 400;
+}
+.xp-rows-serial{
+    text-align: center;
+    font-size: large;
+}

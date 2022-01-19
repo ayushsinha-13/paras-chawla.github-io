@@ -1,0 +1,93 @@
+/* Images */
+#cu-logo{
+    width: 15rem;
+}
+
+/* Navbar */
+.navbar{
+    background-color: white;
+    position: -webkit-sticky; /* Safari & IE */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Elements */
+li{
+    margin: auto 1em auto auto;
+}
+
+/* Teaching */
+.teaching{
+    background-color: #343A40;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 3rem;
+}
+.teaching-containers{
+    margin-bottom: 3rem;
+}
+#teaching-heading{
+    font-family: 'Montserrat' , sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+}
+#teaching-subheading{
+    font-style: italic;
+    font-size: large;
+}
+#teaching-story{
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 500;
+    text-align: justify;
+}
+#quote{
+    color: #ffffff;
+    text-align: center;
+    font-size: x-large;
+    font-weight: 600;
+    margin-bottom: 3rem;
+    font-family: 'Ubuntu',sans-serif;
+    border: 10px dotted #2B2A29;
+    border-radius: 5%;
+    background-color: #D12023;
+}
+
+/* Table cell */
+.cell-normal{
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+/* Head */
+.head-container{
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.head-head{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Montserrat',sans-serif;
+}
+
+/* Research */
+.research{
+    background-color: #343A40;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.research-heading{
+    font-family: 'Montserrat' , sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.research-subheading{
+    font-style: italic;
+    font-size: large;
+}

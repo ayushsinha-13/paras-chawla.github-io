@@ -1,0 +1,66 @@
+/* Images */
+#cu-logo{
+    width: 15rem;
+}
+
+/* Navbar */
+.navbar{
+    background-color: white;
+    position: -webkit-sticky; /* Safari & IE */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Elements */
+li{
+    margin: auto 1em auto auto;
+}
+
+/* Timeline */
+.time{
+    background-color: #343A40;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 3rem;
+}
+.time-container{
+    margin-bottom: 3rem;
+}
+.time-duration{
+    font-size: x-large;
+    font-weight: bolder;
+    font-family: 'Montserrat', sans-serif;
+}
+.time-place{
+    font-family: 'Montserrat',sans-serif;
+    font-weight: 800;
+    font-size: x-large;
+}
+.time-position{
+    font-family: 'Montserrat', sans-serif;
+    color: #D12124;
+    font-weight: 700;
+    font-size: large;
+}
+.time-head{
+    font-size: large;
+    font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+}
+.time-content{
+    font-size: medium;
+    font-weight: 500;
+    font-family: 'Ubuntu',sans-serif;
+}
+
+#time-heading{
+    font-family: 'Montserrat' , sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+}
+#time-subheading{
+    font-style: italic;
+    font-size: large;
+}

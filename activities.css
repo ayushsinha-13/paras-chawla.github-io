@@ -1,0 +1,80 @@
+#cu-logo{
+    width: 15rem;
+}
+
+/* Navbar */
+.navbar{
+    background-color: white;
+    position: -webkit-sticky; /* Safari & IE */
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+/* Elements */
+li{
+    margin: auto 1em auto auto;
+}
+
+/* Responsibilty */
+.award{
+    background-color: #343A40;
+    color: #ffffff;
+    padding-left: 30px;
+    margin-bottom: 3rem;
+}
+.award-container{
+    margin-bottom: 3rem;
+}
+.award-heading-rows,.award-rows{
+    text-align: center;
+}
+.award-rows-left{
+    text-align: left;
+}
+.award-rows,.award-rows-left{
+    font-weight: 400;
+}
+.award-rows-serial{
+    text-align: center;
+    font-size: large;
+}
+
+#award-heading{
+    font-family: 'Montserrat' , sans-serif;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: xx-large;
+}
+#award-subheading{
+    font-style: italic;
+    font-size: large;
+}
+
+/* Qualification */
+.heading-container{
+    margin-bottom: 3rem;
+    text-align: center;
+}
+.heading-head{
+    font-size: x-large;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+    font-family: 'Montserrat',sans-serif;
+}
+
+.alternate{
+    background-color: #F2F2F2;
+    font-family: 'Ubuntu',sans-serif;
+    font-weight: 400;
+    text-align: justify;
+    word-spacing: 3px;
+}
+.odd{
+    background-color: #2F2E2D;
+    font-weight: 400;
+    text-align: justify;
+    word-spacing: 3px;
+    font-family: 'Ubuntu',sans-serif;
+}
